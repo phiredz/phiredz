@@ -12,7 +12,7 @@
 <a href="https://www.hackerrank.com/profile/verymilly3926">
   <img src="https://github.com/user-attachments/assets/a020cfd2-ba91-4d7e-a0ff-8e36e6281d94" alt="Example" width="30" /></a>&nbsp;
 
-### Languages & Tools
+### Languages & Tools:
 <!-- Python -->
 <a href="https://www.python.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Example" width="30" /></a>&nbsp;
