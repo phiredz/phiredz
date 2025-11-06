@@ -1,6 +1,6 @@
 # Hi 👋, I'm Faiqah!
 
-### Tech Intern [@TG SG](https://tg-hr.com.sg/)
+### Tech Intern [@ TG Singapore](https://tg-hr.com.sg/)
 - 🔭 I’m currently working on [PDF Signature Automation](https://github.com/phiredz/pdf-signature-automation)
 - 🌱 I’m currently learning [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 - 💬 Ask me about **AI Ethics, Python & Computer Vision**
