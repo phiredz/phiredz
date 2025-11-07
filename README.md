@@ -9,7 +9,7 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/faiqahred/">
   <img src="https://yt3.googleusercontent.com/i6KNxiy3gME-BulL4WnuGkTGqHuSYF8jl1WRn0rXftcJdSYK7dHKcJ3gLAaPc-KfhmLSYPwf824=s900-c-k-c0x00ffffff-no-rj" alt="Example" width="30" /></a>&nbsp;
-<a href="https://www.hackerrank.com/profile/verymilly3926">
+<a href="https://www.hackerrank.com/profile/phiredz">
   <img src="https://github.com/user-attachments/assets/a020cfd2-ba91-4d7e-a0ff-8e36e6281d94" alt="Example" width="30" /></a>&nbsp;
 
 ### Languages & Tools:
