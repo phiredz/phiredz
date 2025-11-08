@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on [PDF Signature Automation](https://github.com/phiredz/pdf-signature-automation)
 - 🌱 I’m currently learning [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 - 💬 Ask me about **AI Ethics, NLP & Computer Vision**
-- 🎨 Fun fact: Outside of coding, I can act, play the guitar & paint!
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/faiqahred/">
