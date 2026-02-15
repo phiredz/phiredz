@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fruit Quality Detection**
 
-- 🌱 I’m currently learning **FastAPI, Django**
+- 🌱 I’m currently learning: **FastAPI, Django**
 
 - 👯 I’m looking to collaborate on **GDP Growth Prediction**
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **AI Ethics**
 
-- 📫 How to reach me **verymilly3926@gmail.com**
+- 📫 How to reach me: **verymilly3926@gmail.com**
 
-- ⚡ Fun fact **I can play the electric bass**
+- ⚡ Fun fact: **I can play the electric bass**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
