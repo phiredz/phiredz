@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fai</h1>
-<h3 align="center">A passionate AI engineer from Singapore</h3>
+<h1>Hi 👋, I'm Fai</h1>
+<h3>A passionate AI engineer from Singapore</h3>
 
 - 🔭 I’m currently working on **Fruit Quality Detection**
 
