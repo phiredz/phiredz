@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Fai</h1>
+<h1>Hi, I'm Fai 🌸</h1>
 <h3>An aspiring AI/ML engineer from Singapore</h3>
 
 - 🔭 I’m currently working on **Fruit Quality Detection**
