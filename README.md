@@ -1,7 +1,7 @@
-## Hi there 👋
+## hewwo !! (˶ᵔᗜᵔ˶)ﾉﾞ
 
-- 🔭 I’m currently working on **a Network Chat Application**
-- 🌱 I’m currently learning **C++**
-- 🤔 I’m looking for help with **Multithreading & Multiprocessing in Python**
-- 💬 Ask me about **AI Ethics**
-- 📫 How to reach me: <verymilly3926@gmail.com>
+- 🌸 i’m currently working on **a Network Chat Application**
+- 🩷 i’m currently learning **C++**
+- 🩰 i’m looking for help with **Multithreading & Multiprocessing in Python**
+- 🐇 ask me about **AI Ethics**
+- 🦩 how to reach me: <verymilly3926@gmail.com>
