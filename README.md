@@ -1,4 +1,4 @@
-### Hi there, I'm Phi 👋
+# Hi there, I'm Phi 👋
 
 - 🔭 I’m currently working on **a Network Chat Application**
 - 🌱 I’m currently learning **C++**
