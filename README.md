@@ -1,7 +1,7 @@
-## hewwo !! (˶ᵔᗜᵔ˶)ﾉﾞ
+### Hi there, I'm Phi 👋
 
-- 🌸 i’m currently working on **a network chat application**
-- 🩷 i’m currently learning **c++**
-- 🩰 i’m looking for help with **multithreading & multiprocessing in python**
-- 🐇 ask me about **ai ethics**
-- 🦩 how to reach me: <verymilly3926@gmail.com>
+- 🔭 I’m currently working on **a Network Chat Application**
+- 🌱 I’m currently learning **C++**
+- 🤔 I’m looking for help with **Multithreading & Multiprocessing in Python**
+- 💬 Ask me about **AI Ethics**
+- 📫 How to reach me: <verymilly3926@gmail.com>
